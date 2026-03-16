@@ -1,5 +1,5 @@
 >>> Bash to connect from new Folder new terminal
-git clone https://github.com/savi4rk-stack/LF07v2.git
+>>> git clone https://github.com/savi4rk-stack/LF07v2.git
 
 
 
